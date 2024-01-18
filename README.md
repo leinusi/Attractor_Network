@@ -14,7 +14,7 @@ scikit-learn
 
 您可以使用 pip 安装这些依赖项：
 
-pip install numpy matplotlib scikit-learn
+pip install numpy matplotlib scikit-learn Seaborn
 
 使用方法
 
