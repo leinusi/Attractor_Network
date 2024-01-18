@@ -13,7 +13,7 @@ X /= X.max()
 X_train, X_test, y_train, y_test = train_test_split(X, y, test_size=0.3, random_state=42)
 
 
-class NeuralNetwork:
+class AttractorNetwork:
     def __init__(self, num_cells, num_classes):
         self.num_cells = num_cells
         self.num_classes = num_classes
